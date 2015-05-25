@@ -1,0 +1,24 @@
+{
+  "name": "harpjs-browsersync-gulp-project",
+  "version": "1.0.0",
+  "description": "A quick-start template for creating a pattern library / style guide by proxying Harp with Browser Sync using gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgrebb/harpjs-browser-sync-gulp-project.git"
+  },
+  "author": "dgrebb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgrebb/harpjs-browser-sync-gulp-project/issues"
+  },
+  "homepage": "https://github.com/dgrebb/harpjs-browser-sync-gulp-project#readme",
+  "devDependencies": {
+    "browser-sync": "^2.7.4",
+    "gulp": "^3.8.11",
+    "harp": "^0.17.0"
+  }
+}
