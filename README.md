@@ -17,7 +17,8 @@ Read the [Harp documentation](http://harpjs.com/docs/) to get up to speed.
 ## To Do
 
 - [ ] JavaScript integration
-- [x] README
-- [x] Gulpfile
+- [x] `README.md`
+- [x] `gulpfile.js`
 - [x] `index.ejs`
 - [x] `main.scss`
+- [x] `package.json`
